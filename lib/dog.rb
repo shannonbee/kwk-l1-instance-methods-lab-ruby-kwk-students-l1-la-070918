@@ -4,6 +4,6 @@ def bark
 puts "Woof"
 end
 def sit
-  puts "sit"
+  puts "The dog is sitting"
 end
 end
