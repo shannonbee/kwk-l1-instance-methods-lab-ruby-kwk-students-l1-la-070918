@@ -1,7 +1,9 @@
-Class Dog
-def initialize ("bark","sit")
-@bark=bark
+class Dog
+def 
+def bark
 puts "Woof"
-@sit=sit
-
+end
+def sit
+  puts "sit"
+end
 end
